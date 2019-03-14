@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicColorCode", "ElectronicColorCode\ElectronicColorCode.csproj", "{CDCE49A9-721B-4B32-A096-D41428B8CC7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicColorCodeCalculator", "ElectronicColorCodeCalculator\ElectronicColorCodeCalculator.csproj", "{59B2BC8B-9B0D-40F4-9BE5-C39C9D4C9781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicColorCode.Tests", "ElectronicColorCode.Tests\ElectronicColorCode.Tests.csproj", "{8796D2A0-1783-4433-93FF-6EA5F165E32F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCE49A9-721B-4B32-A096-D41428B8CC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCE49A9-721B-4B32-A096-D41428B8CC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCE49A9-721B-4B32-A096-D41428B8CC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCE49A9-721B-4B32-A096-D41428B8CC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B2BC8B-9B0D-40F4-9BE5-C39C9D4C9781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B2BC8B-9B0D-40F4-9BE5-C39C9D4C9781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B2BC8B-9B0D-40F4-9BE5-C39C9D4C9781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B2BC8B-9B0D-40F4-9BE5-C39C9D4C9781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8796D2A0-1783-4433-93FF-6EA5F165E32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8796D2A0-1783-4433-93FF-6EA5F165E32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8796D2A0-1783-4433-93FF-6EA5F165E32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8796D2A0-1783-4433-93FF-6EA5F165E32F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
